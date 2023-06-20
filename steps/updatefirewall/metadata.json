@@ -1,0 +1,11 @@
+{
+    "enabled": true, 
+    "externalUuid4": "2a4f50e9-56de-4d83-b483-0915ab1943e8", 
+    "interpreter": 1, 
+    "key": "updatefirewall", 
+    "name": "Update Firewall", 
+    "osCredKey": "ubuntusudouser", 
+    "serverKey": "ubuntunode", 
+    "successExitCode": 0, 
+    "type": "com.servertribe.attune.tuples.StepSshTuple"
+}

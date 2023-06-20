@@ -1,0 +1,11 @@
+{
+    "enabled": true, 
+    "externalUuid4": "d55a9ca9-d98b-495b-975c-c7a5533d7121", 
+    "interpreter": 1, 
+    "key": "installphp", 
+    "name": "Install PHP", 
+    "osCredKey": "ubuntusudouser", 
+    "serverKey": "ubuntunode", 
+    "successExitCode": 0, 
+    "type": "com.servertribe.attune.tuples.StepSshTuple"
+}

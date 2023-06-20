@@ -1,0 +1,2 @@
+ufw allow in "Apache"
+ufw status
