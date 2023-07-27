@@ -65,11 +65,11 @@ This Project contains the following Blueprints.
 
 | Name | Type | Script Reference | Comment |
 | ---- | ---- | ---------------- | ------- |
+| MySQL root User | Basic Credential | `mysqlrootuser` |  |
+| MySQL User | Basic Credential | `mysqluser` |  |
 | Ubuntu Node | Linux/Unix Node | `ubuntunode` |  |
 | Ubuntu Sudo User | Linux/Unix Credential | `ubuntusudouser` |  |
 | Ubuntu User | Linux/Unix Credential | `ubuntuuser` |  |
-| MySQL root User | Basic Credential | `mysqlrootuser` |  |
-| MySQL User | Basic Credential | `mysqluser` |  |
 
 
 
